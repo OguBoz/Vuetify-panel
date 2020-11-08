@@ -1,4 +1,4 @@
-# todo-ninja
+# Vuetify-panel
 
 ## Project setup
 ```
