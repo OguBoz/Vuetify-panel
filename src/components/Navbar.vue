@@ -67,6 +67,7 @@ export default {
         { icon: 'dashboard', text: 'Dashboard', route: '/' },
         { icon: 'folder', text: 'My Projects', route: '/projects' },
         { icon: 'person', text: 'Team', route: '/team' },
+        { icon: 'account_balance', text: 'Invoices', route: '/invoices' },
       ]
     }
   }
